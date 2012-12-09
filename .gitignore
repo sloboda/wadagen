@@ -36,3 +36,10 @@ nosetests.xml
 # vim editor backup files
 *~
 *swp
+
+# helper scripts for generating documentation
+bin/generate-documentation.bash
+
+# additional output format for the README files
+README.html
+README.pdf
