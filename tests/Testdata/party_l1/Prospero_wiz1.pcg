@@ -1,0 +1,220 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Pathfinder RPG for Game Masters (includes Monsters)
+VERSION:5.16.4
+ROLLMETHOD:2|EXPRESSION:High Fantasy
+PURCHASEPOINTS:Y|TYPE:High Fantasy
+POOLPOINTS:20
+POOLPOINTSAVAIL:20
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Prospero
+TABNAME:Prospero
+PLAYERNAME:
+HEIGHT:69
+WEIGHT:175
+AGE:26
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:7
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:11
+STAT:CHA|SCORE:7
+ALIGN:LG
+RACE:Human
+
+# Character Class(es)
+CLASS:Wizard|SUBCLASS:Conjurer|LEVEL:1|SKILLPOOL:7|SPELLBASE:INT|CANCASTPERDAY:3,1
+CLASSABILITIESLEVEL:Wizard=1|HITPOINTS:6|SPECIALTIES:[SPECIALTY:Conjuration]|SKILLSGAINED:7|SKILLSREMAINING:7
+
+# Character Experience
+EXPERIENCE:0
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Human]
+
+# Character Region
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:6|
+SKILL:Disguise|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:8|
+SKILL:Fly|OUTPUTORDER:9|
+SKILL:Heal|OUTPUTORDER:10|
+SKILL:Intimidate|OUTPUTORDER:11|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Perform (Untrained)|OUTPUTORDER:13|
+SKILL:Ride|OUTPUTORDER:14|
+SKILL:Sense Motive|OUTPUTORDER:15|
+SKILL:Stealth|OUTPUTORDER:16|
+SKILL:Survival|OUTPUTORDER:17|
+SKILL:Swim|OUTPUTORDER:18|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Ability Bonus|POOLPOINTS:0.0
+USERPOOL:Favored Class|POOLPOINTS:0.0
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+USERPOOL:Obsessive Bonus|POOLPOINTS:0.0
+USERPOOL:Adaptability Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Traits|POOLPOINTS:0.0
+USERPOOL:Campaign Traits|POOLPOINTS:0.0
+USERPOOL:Archetype|POOLPOINTS:0.0
+USERPOOL:Class Archetype|POOLPOINTS:0.0
+USERPOOL:Dwarf Racial Trait|POOLPOINTS:0.0
+USERPOOL:Elf Racial Trait|POOLPOINTS:0.0
+USERPOOL:Gnome Racial Trait|POOLPOINTS:0.0
+USERPOOL:Half Elf Racial Trait|POOLPOINTS:0.0
+USERPOOL:Half Orc Racial Trait|POOLPOINTS:0.0
+USERPOOL:Halfling Racial Trait|POOLPOINTS:0.0
+ABILITY:Human Racial Trait|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonus Feat ~ Human|TYPE:SpecialQuality.HumanRacialTrait.HumanRacialDefault.HumanBonusFeat|DESC:Humans select one extra feat at 1st level.
+ABILITY:Human Racial Trait|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skilled ~ Human|TYPE:SpecialQuality.HumanRacialTrait.HumanRacialDefault.HumanSkilled|DESC:Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
+USERPOOL:Human Racial Trait|POOLPOINTS:0.0
+USERPOOL:Fighter Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Monk Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Combat Trick Feat|POOLPOINTS:0.0
+USERPOOL:Weapon Training|POOLPOINTS:0.0
+USERPOOL:Aberrant Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Abyssal Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Arcane Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Celestial Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Destined Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Draconic Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Elemental Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Fey Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Infernal Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Undead Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Ranger Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Rage Power|POOLPOINTS:0.0
+USERPOOL:Versatile Performance|POOLPOINTS:0.0
+USERPOOL:Channel Energy|POOLPOINTS:0.0
+USERPOOL:Weapon Training I|POOLPOINTS:0.0
+USERPOOL:Weapon Training II|POOLPOINTS:0.0
+USERPOOL:Weapon Training III|POOLPOINTS:0.0
+USERPOOL:Weapon Training IV|POOLPOINTS:0.0
+USERPOOL:Mercy|POOLPOINTS:0.0
+USERPOOL:Divine Bond|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Favored Terrain|POOLPOINTS:0.0
+USERPOOL:Favored Terrain Bonus|POOLPOINTS:0.0
+USERPOOL:Combat Style|POOLPOINTS:0.0
+USERPOOL:Hunter's Bond|POOLPOINTS:0.0
+USERPOOL:Rogue Talent|POOLPOINTS:0.0
+USERPOOL:Sorcerer Bloodline|POOLPOINTS:0.0
+ABILITY:Arcane Bond|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Arcane Bond ~ Familiar|TYPE:ArcaneBond.SpecialQuality|DESC:A familiar grants special abilities to its master. These special abilities apply only when the master and familiar are within 1 mile of each other.
+USERPOOL:Arcane Bond|POOLPOINTS:0.0
+ABILITY:Arcane Opposition School|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Necromancy Opposition School|TYPE:SpecialQuality.ClassSpecialization.ArcaneOppositionSchool|DESC:You have chosen necromancy spells as an opposition school.
+ABILITY:Arcane Opposition School|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Divination Opposition School|TYPE:SpecialQuality.ClassSpecialization.ArcaneOppositionSchool|DESC:You have chosen divination spells as an opposition school.
+USERPOOL:Arcane Opposition School|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:Nature Bond|POOLPOINTS:0.0
+USERPOOL:Druid Domain|POOLPOINTS:0.0
+USERPOOL:Weapon Mastery|POOLPOINTS:0.0
+USERPOOL:Necromancer Channeling|POOLPOINTS:0.0
+USERPOOL:Knowledge Class Skill|POOLPOINTS:0.0
+USERPOOL:Arcane Bloodline School Power|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Companion Level Increase Choice|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Intelligent Item|POOLPOINTS:0.0
+USERPOOL:Intelligent Item Alignment|POOLPOINTS:0.0
+USERPOOL:Intelligent Item Languages|POOLPOINTS:0.0
+USERPOOL:Intelligent Item Power|POOLPOINTS:0.0
+USERPOOL:Intelligent Item Purpose|POOLPOINTS:0.0
+USERPOOL:Intelligent Item Purpose Power|POOLPOINTS:0.0
+USERPOOL:Afflictions|POOLPOINTS:0.0
+USERPOOL:Affliction|POOLPOINTS:0.0
+USERPOOL:Class Level +4 Ability Adjustment|POOLPOINTS:0.0
+USERPOOL:Class Level +2 Ability Adjustment|POOLPOINTS:0.0
+USERPOOL:Class Level -2 Ability Adjustment|POOLPOINTS:0.0
+USERPOOL:Animated Object Ability|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Half-Celestial Ability Bonus|POOLPOINTS:0.0
+USERPOOL:Half-Dragon Type|POOLPOINTS:0.0
+USERPOOL:Half-Fiend Ability Bonus|POOLPOINTS:0.0
+USERPOOL:Lycanthrope Type|POOLPOINTS:0.0
+USERPOOL:Lycanthrope Kind|POOLPOINTS:0.0
+USERPOOL:Cloud Giant Oversized Weapon|POOLPOINTS:0.0
+USERPOOL:Giant Spider Type|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Quarterstaff|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:0|COST:0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Outfit (Explorer's)|DATA:NAME=Outfit (Explorer's)$COSTMOD=-10]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Ariel|TYPE:Familiar|RACE:FAMILIAR (HAWK)|HITDICE:0|FILE:/Ariel_familiar.pcg
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

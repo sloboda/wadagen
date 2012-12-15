@@ -34,7 +34,7 @@ nots.py shows a usage message
     $
 
 
-# nots (Number Of Trouble Seekers) usage #
+# nots (Number Of Trouble Seekers) #
 
     $ ./bin/nots.py -h
     Usage: nots.py [options]
@@ -52,7 +52,7 @@ nots.py shows a usage message
                             display CR of party (not same as APL, varies by count)
     $
 
-# use nots.py to find the number of trouble seekers #
+## use nots.py to find the number of trouble seekers ##
 
 Turn data on your player characters into data you may use.
 
@@ -108,3 +108,28 @@ Be verbose about how that is done.
     Challenge Rating is 1/2
     $ 
 
+## unit tests on nots.py ##
+
+    $ python tests/test_nots.py 
+    ..........
+    ----------------------------------------------------------------------
+    Ran 10 tests in 0.000s
+    
+    OK
+    $ python tests/test_nots.py -v
+    A party of three characters at level 7 is APL 6 ... ok
+    A party of six characters at level 4 is APL 5 ... ok
+    CR 0 returns a string of 1/2 ... ok
+    CR 2 returns a string of 2 ... ok
+    CR 20 returns a string of 20 ... ok
+    CR 3 returns a string of 3 ... ok
+    CR -1 returns a string of 1/3 ... ok
+    CR -2 returns a string of 1/4 ... ok
+    CR -3 returns a string of 1/6 ... ok
+    CR -4 returns a string of 1/8 ... ok
+    
+    ----------------------------------------------------------------------
+    Ran 10 tests in 0.001s
+    
+    OK
+    $
