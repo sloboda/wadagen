@@ -44,7 +44,8 @@ Change it the correct path to wadagen on your system.
 
 3. ./bin/nots.py -h will display a help message
 
-
+See the file EXAMPLE for more examples of set up, using the tools, and 
+running unit tests.
 
 ## 4. Legal ##
 
