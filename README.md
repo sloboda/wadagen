@@ -28,7 +28,7 @@ the set of tools. The set is called wadagen.)
 
 This set of tools requires python 2.7.  
 
-It has only been tested on Linux (Ubuntu 10.04).
+It has only been tested on Linux (Ubuntu 12.04).
 
 ## 3. How to Use ##
 
